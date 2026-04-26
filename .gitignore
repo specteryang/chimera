@@ -1,0 +1,13 @@
+# Agent state (auto-managed, but don't commit personal data)
+agents/*.json
+
+# Logs
+logs/*.log
+
+# Old v1 files
+*.pyc
+__pycache__/
+.agent/secrets/
+
+# OS
+.DS_Store

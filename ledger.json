@@ -1,0 +1,15 @@
+{
+  "treasury_usd": 0.0,
+  "total_revenue": 0.0,
+  "total_costs": 0.0,
+  "children_agents": [
+    "seo_farm",
+    "social_operator",
+    "product_scout"
+  ],
+  "milestones": [],
+  "last_cycle": "2026-04-26T08:15:06.827218",
+  "created": "2026-04-24T13:45:00",
+  "version": 2,
+  "note": "v2: All numbers are REAL. No simulation."
+}
